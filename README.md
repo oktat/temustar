@@ -6,7 +6,7 @@ Tesztelésre szánt tartály térfogatszámítás.
 
 Online elérhető változat:
 
-*[https://oktat.github.io/temustar/](https://oktat.github.io/temustar/)
+* [https://oktat.github.io/temustar/](https://oktat.github.io/temustar/)
 
 ## Tesztesetek
 
